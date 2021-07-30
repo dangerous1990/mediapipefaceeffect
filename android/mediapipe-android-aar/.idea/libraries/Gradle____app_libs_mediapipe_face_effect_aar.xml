@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/mediapipe_face_effect.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/429d66d7f102550845a81fe5e3ef238a/mediapipe_face_effect/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/429d66d7f102550845a81fe5e3ef238a/mediapipe_face_effect/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/429d66d7f102550845a81fe5e3ef238a/mediapipe_face_effect/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
